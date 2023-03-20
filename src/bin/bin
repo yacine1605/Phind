@@ -1,0 +1,5 @@
+/*<Tab.Screen name="user" component="{Sign}" /> // <Tab.Screen // name="Search"*
+/ // component={Search} // options={{
+//                headerSearchBarOptions: 'true', // change this to `false`
+//              }}
+// /> comment
